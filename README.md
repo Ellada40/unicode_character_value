@@ -25,7 +25,7 @@ CSS3 — styling and layout
 JavaScript (ES6) — logic for retrieving Unicode values
 
 📂 Project Structure
-unicode_character_value/
+Get Unicode Character Value/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Stylesheet
